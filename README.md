@@ -6,7 +6,7 @@ This repository contains:
 2. CAD files: All files of components needed to be manufactured using 3D printing are provided in both step and stl format. 
 3. Laser cut files: All files of components needed to be manufactured by laser cutting are provided in step format.
 4. Mechanical drawings: Mechanical drawings of components that need to be manufactured by alternative methods (simple metal working). 
-5. Sofware: All software used in the project (MATLAB GUI, Octave Tone Generator, and Arduino code for accelerometer) are provided. 
+5. Software: All software used in the project (MATLAB GUI, Octave Tone Generator, and Arduino code for accelerometer) are provided. 
 6. Vibrations kit assembly guide: A step-by-step guide to assembly and manufacturing of each kit.
 7. Vibrations kit BOM: Bill of materials with suggested url for purchasing. 
 
