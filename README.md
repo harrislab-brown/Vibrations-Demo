@@ -11,3 +11,6 @@ This repository contains:
 7. Vibrations kit BOM: Bill of materials with suggested url for purchasing. 
 
 Additional details on the implementation and motivation can be found at: https://arxiv.org/abs/2110.04668
+
+The documentation in this project is licensed under CC-BY 4.0.
+The hardware and software in this project are licensed under CERN-OHL-P.
